@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-DevOps | SRE |  Observability |AWS & Azure| CI/CD |Terraform |Kubernetes |Prometheus|
+DevOps / SRE / Platform / Cloud Engineer
+
 
 
 # 💻 Tech Stack:
