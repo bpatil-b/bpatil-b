@@ -1,4 +1,4 @@
-## Hi there 👋,I'm Basanagouda Patil
+## Hi 👋,I'm Basanagouda Patil
 
 <!--
 **bpatil-b/bpatil-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
